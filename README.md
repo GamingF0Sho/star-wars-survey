@@ -1,4 +1,4 @@
-# star-wars-survey
+# Project: Star Wars Survey Data Visualization
 
 While waiting for Star Wars: The Force Awakens, the team at FiveThirtyEight was interested in answering some questions about Star Wars fans. One question that particularly interested the team was: Does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?
 
